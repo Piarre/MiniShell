@@ -1,5 +1,13 @@
 {
     "files.associations": {
-        "stdbool.h": "c"
-    }
+        "stdbool.h": "c",
+        "string.h": "c",
+        "getopt.h": "c",
+        "process.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "windows.h": "c",
+        "direct.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
